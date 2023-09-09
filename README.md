@@ -1,3 +1,3 @@
 # website
 
-> Redirct To `studio-jeongu.itch.io`
+> Redirect To `studio-jeongu.itch.io`
